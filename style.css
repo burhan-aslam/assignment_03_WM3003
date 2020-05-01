@@ -1,0 +1,46 @@
+.header{
+    width: auto;
+    height: 50px;
+    background-color: blue;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.social{
+    width: 20px;
+    height: 20px;
+    padding-top: 5px;
+    margin-left: 15px;
+}
+
+.social-icon{
+    width: 300px;
+    height: 40px;
+    padding-top: 10px;
+     display: inline-block;
+
+}
+.header-text {
+    width: 600px;
+    height: 40px;
+    display: inline-block;}
+
+    .header-button {
+    width: 400px;
+    height: 40px;
+    display: inline-block;
+
+}
+.menubar{
+background-color: lightgray;
+height: 50px;
+padding-top: 10px;
+
+}
+.logo{
+    margin-left: 100px;
+    display: inline-block;
+}
+.homebutton{
+    margin-left: 200px;
+    margin-top: 0px;
+}
